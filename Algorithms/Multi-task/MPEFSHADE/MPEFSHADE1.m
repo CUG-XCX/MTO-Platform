@@ -1,11 +1,12 @@
 classdef MPEFSHADE < Algorithm
     % @InProceedings{2020LiMPEFSHADE,
     %   author     = {Li Genghui  and Lin Qiuzhen  and Gao Weifeng.},
-    %   booktitle  = {2020 Information Science},
+    %   booktitle  = {2020 Information Sciences},
     %   title      = {Multifactorial optimization via explicit multipopulation evolutionary framework},
     %   year       = {2020},
     %   pages      = {1555-1570},
-    %   doi        = {},
+    %   volume     = {512},
+    %   doi        = {10.1016/j.ins.2019.10.066},
     % }
     properties (SetAccess = private)
         H=100;
